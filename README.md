@@ -152,7 +152,7 @@ Analysis Included:
 
 ## Detailed Analysis
 
-![Detailed Analysis](Images/Sales_Detailed_Analysis.png)
+![Detailed Analysis](Images/Sales_Analysis.png)
 
 
 ---
